@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Untitled-2.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css"
+        integrity="sha512-10/jx2EXwxxWqCLX/hHth/vu2KY3jCF70dCQB8TSgNjbCVAC/8vai53GfMDrO2Emgwccf2pJqxct9ehpzG+MTw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Portifólio</title>
+</head>
+
+<body>
+    <div class="background">
+        <header>
+            <div class="logo">
+                <i class="fa-regular fa-a"></i>
+            </div>
+            <!--logo-->
+
+            <div class="cabeçalho-link">
+                <li>
+                    <a href="#">Home</a>
+                </li>
+
+                <li>
+                    <a href="#">Sobre</a>
+                </li>
+
+                <li>
+                    <a href="#">Serviços</a>
+                </li>
+
+                <li>
+                    <a href="#">Trabalho</a>
+                </li>
+                <button>Meu Contato</button>
+            </div>
+            <!--cabeçalho-link-->
+        </header>
+
+        <div class="container-text">
+            <div class="text">
+                <h3>Ola, Pessoal</h3>
+                <h1>Eu sou <span>Artur Araújo</span></h1>
+                <p>Sou um desenvolvedor Web</p>
+                <div class="redes-social">
+                    <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                    <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                    <a href="#"><i class="fa-brands fa-dribbble"></i></a>
+                    <a href="#"><i class="fa-brands fa-behance"></i></a>
+                </div>
+                <!--redes-social-->
+                <button class="btn">Sobre Mim</button>
+            </div>
+            <!--text-->
+        </div>
+        <!--container-text-->
+    </div>
+    <!--background-->
+    <div class="carrousel">
+        <article class="card">
+            <h1>HTML</h1>
+        </article>
+        <article class="card">
+            <h1>CSS</h1>
+        </article>
+        <article class="card">
+            <H1>JS</H1>
+        </article>
+        <article class="card">
+            <h1>React Js</h1>
+        </article>
+        <article class="card">
+            <h1>GIT</h1>
+        </article>
+        <article class="card">
+            <h1>LOGICA</h1>
+        </article>
+    </div>
+
+
+    <script type="Untitled-1.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+
+</body>
+
+</html>
